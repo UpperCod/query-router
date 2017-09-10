@@ -1,0 +1,23 @@
+{
+  "name": "query-router",
+  "version": "0.0.1",
+  "description": "Tool for route management",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uppercod/query-router.git"
+  },
+  "author": "Matias Trujillo Olivares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uppercod/query-router/issues"
+  },
+  "homepage": "https://github.com/uppercod/query-router#readme",
+  "devDependencies": {
+    "jest": "^20.0.4",
+    "rollup-plugin-buble": "^0.15.0"
+  }
+}
